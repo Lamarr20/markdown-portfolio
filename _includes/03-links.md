@@ -1,1 +1,1 @@
-[GitHub] (https://github.com/Lamarr20)
+[GitHub](https://github.com/Lamarr20)
