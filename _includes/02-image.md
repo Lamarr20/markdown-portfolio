@@ -1,1 +1,5 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+
+![Image of Puppy](https://cdn2-www.dogtime.com/assets/uploads/2018/10/puppies-cover.jpg)
+
+
+Heres a picture of a puppy.
